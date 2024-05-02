@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  height: 100svh;
+  font-family: "Inter", sans-serif;
+  background-color: #15171f;
+  color: #f41945;
+}
+
+main {
+  display: grid;
+  place-items: center;
+  height: 100%;
+}
